@@ -109,6 +109,15 @@ section.resume-section {
 .text-primary {
   color: #673AB7 !important; }
 
+#particles-js {
+  position: fixed;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  z-index: -1;
+}
+
 a {
   color: #673AB7; }
   a:hover, a:focus, a:active {
