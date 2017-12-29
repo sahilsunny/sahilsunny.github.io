@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /img/
+Disallow: /scss/
+Disallow: /vendor/
+Sitemap: http://sahilsunny.com/sitemap.xml
